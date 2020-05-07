@@ -1,0 +1,47 @@
+
+body
+{
+    background-image: url(https://wallpapercave.com/wp/5vhLR6T.jpg);
+    
+    
+}
+
+
+h1
+{
+    color: darkred;
+    background: linear-gradient(to right,pink,orange);
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+.Buttonformat
+{
+    color: purple;
+    background: aqua;
+    border-radius: 10px;
+    font-size: 15px;
+   
+    text-decoration: none;
+    padding: 5px;
+}
+h2
+{
+    color: darkred;
+    background-color: bisque;
+    
+}
+p
+{
+    color: antiquewhite;
+}
+
+h3
+{
+    color: darkred;
+    background-color: bisque;
+    
+}
+img
+{
+    box-shadow: 2px 2px black;
+}
